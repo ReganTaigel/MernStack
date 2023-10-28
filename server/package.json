@@ -1,0 +1,13 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Node.js, Express, MongoDB, CRUD",
+  "type": "module",
+  "main": "server.mjs",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Regan T Taigel",
+  "license": "ISC"
+}

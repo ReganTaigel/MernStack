@@ -1,0 +1,71 @@
+/* Nav bar */
+ul {
+    list-style-type: none;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+   
+  }
+  
+li {
+    float: left;
+  }
+  
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+li a:hover {
+    background-color: #111;
+  }
+
+  /* Footer Css */
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 10%;
+    background-color: #333;
+    color: white;
+    text-align: center;
+    
+  }
+
+/* home page Css */ 
+
+.home h1{
+text-align: center;
+}
+
+.home p{
+  text-align: center;
+    color: black;
+    padding: auto;
+}
+
+.divImage{
+  margin: auto;
+  width: 50%;
+}
+
+.divButton{
+  
+  text-align: center;
+  width: auto;
+  height: auto;
+  
+}
+
+/* About page Css */
+
+.about{
+  text-align: center;
+  padding: 10%;
+  margin: auto;
+
+}
